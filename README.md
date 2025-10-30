@@ -24,6 +24,7 @@ Forme #1 : 28.26
 Forme #2 : 20
 
 ```
+<img width="748" height="626" alt="image" src="https://github.com/user-attachments/assets/124dca3e-9a97-46a7-85c9-72b8925afc4f" />
 
 
 
@@ -49,6 +50,7 @@ Paiement de 200 DH en espèces.
 Paiement de 75.5 DH par carte bancaire.
 
 ```
+<img width="846" height="136" alt="image" src="https://github.com/user-attachments/assets/bdfdcf27-ed15-4854-8440-44d6f9e250ac" />
 
 
 ---
@@ -78,6 +80,7 @@ Meuh !
 
 ```
 
+<img width="606" height="287" alt="image" src="https://github.com/user-attachments/assets/e77dcbbe-2725-40b9-97b9-9d97d768a71d" />
 
 
 ---
@@ -96,12 +99,18 @@ Simuler une interface de gestion de fichiers avec abstraction.
 
 ## Exemple de sortie
 ```
-Créer un dossier : Dossier1
-Ajouter un fichier dans Dossier1 : fichier1.txt 100
-Ajouter un fichier dans Dossier1 : fichier2.txt 250
-Taille totale de Dossier1 : 350
+Structure des fichiers :
+root (Dossier, taille=1150)
+    file1.txt (Fichier, taille=100)        
+    file2.txt (Fichier, taille=250)        
+    docs (Dossier, taille=800)
+        doc1.pdf (Fichier, taille=500)     
+        doc2.pdf (Fichier, taille=300)     
+
+Taille totale du dossier root : 1150 octets
 
 ```
 
+<img width="723" height="317" alt="image" src="https://github.com/user-attachments/assets/6f2c60a4-5fd3-404b-b337-16dd8b7acf16" />
 
 
